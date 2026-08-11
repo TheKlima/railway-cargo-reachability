@@ -1,0 +1,21 @@
+# Build output
+/solver
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Coverage output
+*.out
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Editor/IDE
+.vscode/
+.idea/
